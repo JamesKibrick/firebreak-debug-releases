@@ -1,0 +1,19 @@
+{
+  "stable": {
+    "version": "1.8.3",
+    "build": 1,
+    "release_date": "2025-01-28T00:00:00Z",
+    "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.8.3-debug/FileTransferSetup_v1.8.3_DEBUG.exe",
+    "installer_size": 46768742,
+    "installer_hash": "sha256:pending_first_debug_release",
+    "package_url": "",
+    "manifest_url": "",
+    "package_hash": "",
+    "package_size": 0,
+    "files": {},
+    "signature": "",
+    "changelog": "Initial debug channel setup - Please update to v1.9.0 or later for dual-channel support",
+    "minimum_version": "1.0.0",
+    "mandatory": false
+  }
+}
