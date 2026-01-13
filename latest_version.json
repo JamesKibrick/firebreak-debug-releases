@@ -1,17 +1,17 @@
 {
   "stable": {
     "windows": {
-      "version": "1.0.97",
+      "version": "1.0.98",
       "build": 1,
-      "release_date": "2026-01-13T09:37:44.709328Z",
-      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.97-debug/FileTransferSetup_v1.0.97_DEBUG.exe",
-      "installer_size": 45380024,
-      "installer_hash": "sha256:76e84dadecf81343f102735f25959cc0309b71d58ac6ec4ed83baef0d6d9e4cb",
-      "package_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.97-debug/update.zip",
-      "manifest_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.97-debug/manifest.json",
-      "package_hash": "sha256:e59e90b869960e70a089e7806ebb2bd6ddd2d4c5d19ce311c339b68c8bbdf28a",
-      "package_size": 76722966,
-      "changelog": "Release Date: 2026-01-13\n- Updated to version 1.0.97",
+      "release_date": "2026-01-13T10:40:26.063927Z",
+      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.98-debug/FileTransferSetup_v1.0.98_DEBUG.exe",
+      "installer_size": 45391756,
+      "installer_hash": "sha256:22f0f3003a5a1751ab58013557ceb9e5b4aeae7556351c0a12017e6e2a12766e",
+      "package_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.98-debug/update.zip",
+      "manifest_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.98-debug/manifest.json",
+      "package_hash": "sha256:1ee5ee2382eda06993a369a30426809ad29506a5c23fad9070285215f0c5979e",
+      "package_size": 76739949,
+      "changelog": "Release v1.0.98 - See GitHub for full release notes",
       "minimum_version": "1.0.0",
       "mandatory": false
     },
