@@ -16,18 +16,18 @@
       "mandatory": false
     },
     "macos": {
-      "version": "1.0.103",
+      "version": "1.0.104",
       "build": 2,
-      "release_date": "2026-01-25T09:39:20.269770Z",
-      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.103-debug/Redmail_v1.0.103_b2_DEBUG.dmg",
-      "installer_size": 59021924,
-      "installer_hash": "sha256:bf4471fbe8d1c9927a86dda7b0de370ec821c966c1cfb4cbe63f2823002cc12e",
+      "release_date": "2026-01-25T09:50:02.428730Z",
+      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.104-debug/Redmail_v1.0.104_b2_DEBUG.dmg",
+      "installer_size": 59022617,
+      "installer_hash": "sha256:b479d267025e3fdab0acde0bffdb152e314365fa62a6c23c79fd25b1e5d8d375",
       "minimum_version": "1.0.0",
       "mandatory": false,
-      "package_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.103-debug/update_macos.zip",
-      "package_hash": "sha256:2cd5b367461d24f145db5a189405d6f395158e411bad3d82cc69a5a3f432e243",
-      "package_size": 116809614,
-      "manifest_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.103-debug/manifest_macos.json"
+      "package_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.104-debug/update_macos.zip",
+      "package_hash": "sha256:dde3fd1486d4e1ea235380a713e5bf4a648f53c5c911564b0deae8a4b9876d2b",
+      "package_size": 116810118,
+      "manifest_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.104-debug/manifest_macos.json"
     },
     "linux": {
       "version": "1.0.97",
