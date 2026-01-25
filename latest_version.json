@@ -17,9 +17,9 @@
     },
     "macos": {
       "version": "1.0.101",
-      "build": 1,
+      "build": 2,
       "release_date": "2026-01-25T13:18:47.596875Z",
-      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.101-debug/Redmail_v1.0.101_b1_DEBUG.dmg",
+      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.101-debug/Redmail_v1.0.101_b2_DEBUG.dmg",
       "installer_size": 58355632,
       "installer_hash": "sha256:92f3718efd060a5cbed2943f85b49caee904a6bcad6d516fe699022075bea6a4",
       "minimum_version": "1.0.0",
