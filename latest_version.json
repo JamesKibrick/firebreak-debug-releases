@@ -2,7 +2,7 @@
   "stable": {
     "windows": {
       "version": "1.0.110",
-      "build": 1,
+      "build": 2,
       "release_date": "2026-01-26T00:00:00Z",
       "download_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.110/FileTransferSetup_v1.0.110.exe",
       "package_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.110/update.zip",
