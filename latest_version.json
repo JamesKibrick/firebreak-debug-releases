@@ -9,7 +9,7 @@
       "manifest_url": "https://github.com/JamesKibrick/firebreak-releases/releases/download/v1.0.110/manifest.json",
       "installer_hash": "",
       "installer_size": 0,
-      "package_hash": "",
+      "package_hash": "sha256:e7e496adb956e7d6b12b7849b8b347f2a7e93bfec6a7d7b702246f2729ecd0b2",
       "package_size": 0,
       "minimum_version": "1.0.0",
       "mandatory": false
