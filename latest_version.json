@@ -1,12 +1,9 @@
 {
   "stable": {
-    "windows": {
-      "version": "1.0.108",
-      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.106-debug/FileTransferSetup_v1.0.108.exe"
-    },
-    "macos": {
-      "version": "1.0.106",
-      "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.106-debug/Redmail_v1.0.106_b2.dmg"
-    }
+    "version": "1.0.108",
+    "build": 1,
+    "download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.106-debug/FileTransferSetup_v1.0.108.exe",
+    "macos_version": "1.0.106",
+    "macos_download_url": "https://github.com/JamesKibrick/firebreak-debug-releases/releases/download/v1.0.106-debug/Redmail_v1.0.106_b2.dmg"
   }
 }
